@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/univid/static/css/main.f39ffa75.css",
+    "main.js": "/univid/static/js/main.d467eb4a.js",
+    "index.html": "/univid/index.html",
+    "main.f39ffa75.css.map": "/univid/static/css/main.f39ffa75.css.map",
+    "main.d467eb4a.js.map": "/univid/static/js/main.d467eb4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f39ffa75.css",
+    "static/js/main.d467eb4a.js"
+  ]
+}
